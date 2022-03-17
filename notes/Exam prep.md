@@ -1,10 +1,10 @@
 ---
-attachments: [Clipboard_2022-03-01-15-52-33.png, Clipboard_2022-03-01-15-53-08.png, Clipboard_2022-03-01-15-53-33.png, Clipboard_2022-03-01-15-53-44.png, Clipboard_2022-03-01-15-53-54.png, Clipboard_2022-03-01-15-54-38.png, Clipboard_2022-03-01-15-54-49.png, Clipboard_2022-03-01-15-56-07.png, Clipboard_2022-03-01-15-57-16.png, Clipboard_2022-03-01-15-57-43.png, Clipboard_2022-03-01-15-57-58.png, Clipboard_2022-03-01-15-58-07.png, Clipboard_2022-03-01-15-58-29.png, Clipboard_2022-03-01-15-58-53.png, Clipboard_2022-03-01-15-59-02.png, Clipboard_2022-03-01-15-59-54.png, Clipboard_2022-03-01-16-01-20.png, Clipboard_2022-03-01-16-01-35.png, Clipboard_2022-03-01-16-03-47.png, Clipboard_2022-03-02-14-56-16.png, Clipboard_2022-03-02-15-00-50.png, Clipboard_2022-03-02-15-01-41.png, Clipboard_2022-03-02-15-04-46.png, Clipboard_2022-03-02-15-05-09.png, Clipboard_2022-03-02-15-05-49.png, Clipboard_2022-03-02-15-08-07.png, Clipboard_2022-03-02-15-08-42.png, Clipboard_2022-03-02-15-09-13.png, Clipboard_2022-03-02-15-09-25.png, Clipboard_2022-03-02-15-09-38.png, Clipboard_2022-03-02-15-10-05.png, Clipboard_2022-03-02-15-13-17.png, Clipboard_2022-03-02-15-14-26.png, Clipboard_2022-03-02-15-14-36.png, Clipboard_2022-03-02-15-15-21.png, Clipboard_2022-03-02-15-31-50.png, Clipboard_2022-03-02-16-15-33.png, Clipboard_2022-03-02-16-17-30.png, Clipboard_2022-03-02-16-17-43.png, Clipboard_2022-03-02-16-19-09.png, Clipboard_2022-03-02-16-19-48.png, Clipboard_2022-03-02-16-20-35.png, Clipboard_2022-03-02-16-20-57.png, Clipboard_2022-03-02-16-21-09.png, Clipboard_2022-03-02-16-21-43.png, Clipboard_2022-03-02-16-23-29.png, Clipboard_2022-03-02-16-24-19.png, Clipboard_2022-03-02-16-25-41.png, Clipboard_2022-03-02-16-26-39.png, Clipboard_2022-03-02-16-50-36.png, Clipboard_2022-03-02-17-25-55.png, Clipboard_2022-03-02-17-26-06.png, Clipboard_2022-03-02-17-27-34.png, Clipboard_2022-03-02-17-27-53.png, Clipboard_2022-03-02-17-28-02.png, Clipboard_2022-03-02-17-28-11.png, Clipboard_2022-03-02-17-28-18.png, Clipboard_2022-03-02-17-39-08.png, Clipboard_2022-03-02-17-39-45.png, Clipboard_2022-03-02-17-40-15.png, Clipboard_2022-03-02-17-40-30.png, Clipboard_2022-03-02-17-40-46.png, Clipboard_2022-03-02-17-41-00.png, Clipboard_2022-03-02-17-41-27.png, Clipboard_2022-03-02-17-41-49.png, Clipboard_2022-03-02-17-42-00.png, Clipboard_2022-03-02-17-42-11.png, Clipboard_2022-03-02-17-42-22.png, Clipboard_2022-03-02-17-42-41.png, Clipboard_2022-03-02-17-45-11.png, Clipboard_2022-03-02-17-45-32.png, Clipboard_2022-03-02-17-46-06.png, Clipboard_2022-03-02-17-47-50.png, Clipboard_2022-03-03-11-45-49.png, Clipboard_2022-03-03-11-50-04.png, Clipboard_2022-03-03-12-09-32.png, Clipboard_2022-03-03-12-10-46.png, Clipboard_2022-03-03-12-10-55.png, Clipboard_2022-03-03-12-11-16.png, Clipboard_2022-03-03-12-14-21.png, Clipboard_2022-03-03-12-14-31.png, Clipboard_2022-03-03-12-16-32.png, Clipboard_2022-03-03-14-33-15.png, Clipboard_2022-03-03-14-35-35.png, Clipboard_2022-03-03-14-37-20.png, Clipboard_2022-03-03-14-38-56.png, Clipboard_2022-03-03-14-39-59.png, Clipboard_2022-03-03-14-41-08.png, Clipboard_2022-03-03-14-41-16.png, Clipboard_2022-03-03-14-43-28.png, Clipboard_2022-03-03-14-44-43.png, Clipboard_2022-03-03-14-45-34.png, Clipboard_2022-03-03-14-47-43.png, Clipboard_2022-03-03-15-18-17.png, Clipboard_2022-03-03-16-39-00.png, Clipboard_2022-03-03-16-41-36.png, Clipboard_2022-03-03-17-43-49.png, Clipboard_2022-03-03-17-57-52.png, Clipboard_2022-03-03-18-01-47.png, Clipboard_2022-03-03-18-02-14.png, Clipboard_2022-03-03-18-04-11.png, Clipboard_2022-03-04-11-36-57.png, Clipboard_2022-03-04-11-38-57.png, Clipboard_2022-03-04-11-40-08.png, Clipboard_2022-03-04-11-40-31.png, Clipboard_2022-03-04-11-44-44.png, Clipboard_2022-03-04-11-50-34.png, Clipboard_2022-03-04-11-51-04.png, Clipboard_2022-03-04-11-52-54.png]
+attachments: [Clipboard_2022-03-01-15-52-33.png, Clipboard_2022-03-01-15-53-08.png, Clipboard_2022-03-01-15-53-33.png, Clipboard_2022-03-01-15-53-44.png, Clipboard_2022-03-01-15-53-54.png, Clipboard_2022-03-01-15-54-38.png, Clipboard_2022-03-01-15-54-49.png, Clipboard_2022-03-01-15-56-07.png, Clipboard_2022-03-01-15-57-16.png, Clipboard_2022-03-01-15-57-43.png, Clipboard_2022-03-01-15-57-58.png, Clipboard_2022-03-01-15-58-07.png, Clipboard_2022-03-01-15-58-29.png, Clipboard_2022-03-01-15-58-53.png, Clipboard_2022-03-01-15-59-02.png, Clipboard_2022-03-01-15-59-54.png, Clipboard_2022-03-01-16-01-20.png, Clipboard_2022-03-01-16-01-35.png, Clipboard_2022-03-01-16-03-47.png, Clipboard_2022-03-02-14-56-16.png, Clipboard_2022-03-02-15-00-50.png, Clipboard_2022-03-02-15-01-41.png, Clipboard_2022-03-02-15-04-46.png, Clipboard_2022-03-02-15-05-09.png, Clipboard_2022-03-02-15-05-49.png, Clipboard_2022-03-02-15-08-07.png, Clipboard_2022-03-02-15-08-42.png, Clipboard_2022-03-02-15-09-13.png, Clipboard_2022-03-02-15-09-25.png, Clipboard_2022-03-02-15-09-38.png, Clipboard_2022-03-02-15-10-05.png, Clipboard_2022-03-02-15-13-17.png, Clipboard_2022-03-02-15-14-26.png, Clipboard_2022-03-02-15-14-36.png, Clipboard_2022-03-02-15-15-21.png, Clipboard_2022-03-02-15-31-50.png, Clipboard_2022-03-02-16-15-33.png, Clipboard_2022-03-02-16-17-30.png, Clipboard_2022-03-02-16-17-43.png, Clipboard_2022-03-02-16-19-09.png, Clipboard_2022-03-02-16-19-48.png, Clipboard_2022-03-02-16-20-35.png, Clipboard_2022-03-02-16-20-57.png, Clipboard_2022-03-02-16-21-09.png, Clipboard_2022-03-02-16-21-43.png, Clipboard_2022-03-02-16-23-29.png, Clipboard_2022-03-02-16-24-19.png, Clipboard_2022-03-02-16-25-41.png, Clipboard_2022-03-02-16-26-39.png, Clipboard_2022-03-02-16-50-36.png, Clipboard_2022-03-02-17-25-55.png, Clipboard_2022-03-02-17-26-06.png, Clipboard_2022-03-02-17-27-34.png, Clipboard_2022-03-02-17-27-53.png, Clipboard_2022-03-02-17-28-02.png, Clipboard_2022-03-02-17-28-11.png, Clipboard_2022-03-02-17-28-18.png, Clipboard_2022-03-02-17-39-08.png, Clipboard_2022-03-02-17-39-45.png, Clipboard_2022-03-02-17-40-15.png, Clipboard_2022-03-02-17-40-30.png, Clipboard_2022-03-02-17-40-46.png, Clipboard_2022-03-02-17-41-00.png, Clipboard_2022-03-02-17-41-27.png, Clipboard_2022-03-02-17-41-49.png, Clipboard_2022-03-02-17-42-00.png, Clipboard_2022-03-02-17-42-11.png, Clipboard_2022-03-02-17-42-22.png, Clipboard_2022-03-02-17-42-41.png, Clipboard_2022-03-02-17-45-11.png, Clipboard_2022-03-02-17-45-32.png, Clipboard_2022-03-02-17-46-06.png, Clipboard_2022-03-02-17-47-50.png, Clipboard_2022-03-03-11-45-49.png, Clipboard_2022-03-03-11-50-04.png, Clipboard_2022-03-03-12-09-32.png, Clipboard_2022-03-03-12-10-46.png, Clipboard_2022-03-03-12-10-55.png, Clipboard_2022-03-03-12-11-16.png, Clipboard_2022-03-03-12-14-21.png, Clipboard_2022-03-03-12-14-31.png, Clipboard_2022-03-03-12-16-32.png, Clipboard_2022-03-03-14-33-15.png, Clipboard_2022-03-03-14-35-35.png, Clipboard_2022-03-03-14-37-20.png, Clipboard_2022-03-03-14-38-56.png, Clipboard_2022-03-03-14-39-59.png, Clipboard_2022-03-03-14-41-08.png, Clipboard_2022-03-03-14-41-16.png, Clipboard_2022-03-03-14-43-28.png, Clipboard_2022-03-03-14-44-43.png, Clipboard_2022-03-03-14-45-34.png, Clipboard_2022-03-03-14-47-43.png, Clipboard_2022-03-03-15-18-17.png, Clipboard_2022-03-03-16-39-00.png, Clipboard_2022-03-03-16-41-36.png, Clipboard_2022-03-03-17-43-49.png, Clipboard_2022-03-03-17-57-52.png, Clipboard_2022-03-03-18-01-47.png, Clipboard_2022-03-03-18-02-14.png, Clipboard_2022-03-03-18-04-11.png, Clipboard_2022-03-04-11-36-57.png, Clipboard_2022-03-04-11-38-57.png, Clipboard_2022-03-04-11-40-08.png, Clipboard_2022-03-04-11-40-31.png, Clipboard_2022-03-04-11-44-44.png, Clipboard_2022-03-04-11-50-34.png, Clipboard_2022-03-04-11-51-04.png, Clipboard_2022-03-04-11-52-54.png, Clipboard_2022-03-07-10-52-14.png, Clipboard_2022-03-07-10-52-59.png, Clipboard_2022-03-07-10-53-59.png, Clipboard_2022-03-07-10-56-21.png, Clipboard_2022-03-07-10-59-27.png, Clipboard_2022-03-07-11-00-10.png, Clipboard_2022-03-07-11-01-17.png, Clipboard_2022-03-07-11-29-21.png, Clipboard_2022-03-07-11-33-54.png, Clipboard_2022-03-07-11-48-30.png, Clipboard_2022-03-07-11-51-27.png, Clipboard_2022-03-07-11-52-09.png, Clipboard_2022-03-07-11-55-03.png, Clipboard_2022-03-07-13-03-55.png, Clipboard_2022-03-07-13-09-33.png, Clipboard_2022-03-07-13-10-07.png, Clipboard_2022-03-07-13-10-17.png, Clipboard_2022-03-07-13-12-08.png, Clipboard_2022-03-07-13-12-23.png, Clipboard_2022-03-07-13-12-40.png, Clipboard_2022-03-07-13-12-52.png, Clipboard_2022-03-07-14-37-19.png, Clipboard_2022-03-07-14-38-16.png, Clipboard_2022-03-07-14-39-02.png, Clipboard_2022-03-07-14-39-45.png]
 favorited: true
 tags: [Introduction to Deep Learning]
 title: Exam prep
 created: '2022-03-01T13:48:34.199Z'
-modified: '2022-03-04T10:22:12.192Z'
+modified: '2022-03-07T13:23:23.789Z'
 ---
 
 # Exam prep
@@ -398,39 +398,105 @@ Gotta break symmetry: if all initial weigths are the same, they will ALL grow th
 
 # Word embeddings stuff
 
+![](@attachment/Clipboard_2022-03-07-10-52-14.png)
+Another problem -> isolated concepts
 
+=> Representation by onthology
+![](@attachment/Clipboard_2022-03-07-10-52-59.png)
+Here we have a notion of similarity/distance, but it's very crude
+![](@attachment/Clipboard_2022-03-07-10-53-59.png)
 
+Desired properties:
+- Flexible and general
+- Maximally expressive: directly captures concepts and similarity/distance between them
+- Easy to create/automated
+-> !!! Neural networks!
 
+## Embeddings
 
+**Embedding**: intuitively, a method used to represent discrete variables as continuous vectors. Useful for machine translation. In the contex of neural networks, they are low-dimensional. learned continuous vector representations of discrete variables.
+NN embeddings are useful because they can reduce the dimensionality of categorical variables and meaningfully represent categories in the transformed space.
+They overcome the two limitations of one-hot-encoding: high-cardinality variables and the mapping is completely uninformed
 
+Three purposes:
+- Finding nearest neighbors in the embedding space
+- As input to a ML model for a supervised task
+- For visualization of concepts and relations between categories
 
+From the slides: **Vector in space with many dimensions**
+![](@attachment/Clipboard_2022-03-07-10-56-21.png)
 
+We can greatly improve embeddings by learning them using a neural network on a supervised task. The embeddings form the parameters — weights — of the network which are adjusted to minimize loss on the task. The resulting embedded vectors are representations of categories where similar categories — relative to the task — are closer to one another.
 
+How to **learn embeddings**:
+- Dump all concepts into the space randomly
+- Take a very large corpus, like 100M documents
+- Repeat:
+  - Take two words which appear in similar contexts (surrounded by similar words)
+  - Push them a little closer together
+-> The main idea is that after seeing many context words that appear in similar contexts will be represented by similar vectors
 
+### CBOW and Skip-gram
 
+Both are architectures to learn the underlying word representations for each word by using neural networks.
+![](@attachment/Clipboard_2022-03-07-11-48-30.png)
 
+In the CBOW model, the distributed representations of context (or surrounding words) are combined to predict the word in the middle. While in the Skip-gram model, the distributed representation of the input word is used to predict the context.
+![](@attachment/Clipboard_2022-03-07-10-59-27.png)
 
+#### Skip-gram
+Predict context given one input. We train a neural network to predict word embedding when you don't have any labeled data by creating a "fake" task for the NN to train. We are not interested in inputs and outputs, but to learn the weights of the hidden layer that are actually the word vectors we're trying to learn. So the fake task is: given a word, we'll try to predict its neighboring words; we define a neighboring word by the window size (a hyperparam). ![](@attachment/Clipboard_2022-03-07-11-51-27.png)
 
+![](@attachment/Clipboard_2022-03-07-11-52-09.png)
 
+#### CBOW
+![](@attachment/Clipboard_2022-03-07-11-00-10.png)
+Loss (that's cross-entropy): ![](@attachment/Clipboard_2022-03-07-11-01-17.png)
+\* SGD*, steps illustrated on slides but quite unclearly
+![](@attachment/Clipboard_2022-03-07-11-29-21.png)
+Negative sampling
 
+The fake task here is somewhat similar to skip-gram: we take a pair of words and teach the model that they co-occur, BUT instead of adding the errors we add the input words for the same target word.
 
+![](@attachment/Clipboard_2022-03-07-11-55-03.png)
 
+**On negative sampling**
+CBOW and skip-gram have some problems:
+- For each training sample, only the weigths corresponding to the target word might get a significant update; in each backprop pass we only make very sparse updates
+- For each training sample, the calculation of the final probabilities using the softmax is quite an expensive operation and it involves a summation of scores over all the words in out vocabulary for normalizing -> we are performing an expensive operation to calculate the probability of words whose weight might not even be updated or be updated marginally
+-> Instead of brute forcing we try to reduce the number of weigths updated for each training sample: **negative sampling**
+This allows us to only modify a small percentage of the weights rather than all of them for each training sample. To do this instead of trying to predict the probability of being a nearby word for all the words in the vocabulary, we try to predict the probability that our training sample words are neighbors or not -> instead of a softmax on 10k classes we have 10k binary classification problems
 
+# RNN, LSTM
 
+## RNN
 
+![](@attachment/Clipboard_2022-03-07-13-03-55.png)
 
+A generalization of feedforward neural network that has an internal memory. RNN is recurrent in nature as it performs the same function for every input of data while the output of the current input depends on the past one computation. After producing the output, it is copied and sent back into the recurrent network. For making a decision, it considers the current input and the output that it has learned from the previous input.
+Unlike FFNNs, RNNs can use their internal state (memory) to process sequences of inputs -> suitable for hadwriting recognition, speech recognition.
 
+![](@attachment/Clipboard_2022-03-07-13-09-33.png)
+By unrolling we mean that we write out the network for the complete sequence. For example, if the sequence we care about is a sentence of 3 words, the network would be unrolled into a 3-layer neural network, one layer for each word.
 
+![](@attachment/Clipboard_2022-03-07-13-10-07.png)
 
+![](@attachment/Clipboard_2022-03-07-13-10-17.png)
 
+![](@attachment/Clipboard_2022-03-07-14-37-19.png)
 
+RNNs are also used with convolutional layers to extend the effective pixel neighbourhood.
 
+**Working**:
+1. Forward pass ![](@attachment/Clipboard_2022-03-07-14-38-16.png)
+2. Backward pass: ![](@attachment/Clipboard_2022-03-07-14-39-02.png)
+3. Computing fradients: ![](@attachment/Clipboard_2022-03-07-14-39-45.png)
 
+## LSTM
 
-
-
-
-
-
-
-
+Long Short-Term Memory networks -> modified version of RNNs, which makes it easier to remember past data in memory. No more vanishing gradient problem. Well suited to classify, process and predict time series.
+Three gates:
+![](@attachment/Clipboard_2022-03-07-13-12-08.png)
+- Input gate: ![](@attachment/Clipboard_2022-03-07-13-12-23.png)
+- Forget gate: ![](@attachment/Clipboard_2022-03-07-13-12-40.png)
+- Output gate: ![](@attachment/Clipboard_2022-03-07-13-12-52.png)
